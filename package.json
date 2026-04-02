@@ -1,0 +1,17 @@
+{
+  "name": "jayaseelan-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Jayaseelan J — UI/UX Designer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'No build needed for static site'"
+  },
+  "keywords": [
+    "portfolio",
+    "ui-designer",
+    "ux-designer"
+  ],
+  "author": "Jayaseelan J",
+  "license": "MIT"
+}
